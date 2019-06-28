@@ -6,3 +6,5 @@
 1. [Data Binding](https://github.com/zhangwenshuan/GitCode/issues/2)
 2. [Lifecycles](https://github.com/zhangwenshuan/GitCode/issues/3)
 3. [LiveData](https://github.com/zhangwenshuan/GitCode/issues/4)
+### Android 线程系列
+3. [Android 消息机制](https://github.com/zhangwenshuan/GitCode/issues/5)
