@@ -11,5 +11,9 @@
 4. [ViewModel](https://github.com/GitCode8/GitCode/issues/7)
 ### Android 线程系列
 1. [Android 消息机制](https://github.com/GitCode8/GitCode/issues/5)
+2. [IntentService](https://github.com/GitCode8/GitCode/issues/8)
+3. [HandlerThread](https://github.com/GitCode8/GitCode/issues/9)
+4. [AsyncTask](https://github.com/GitCode8/GitCode/issues/10)
 ### Android 网络编程系列
 1. [Android 网络编程基础](https://github.com/GitCode8/GitCode/issues/6)
+
