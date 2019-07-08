@@ -1,4 +1,4 @@
-# GitCode
+# GitCode        Star  Star
 
 个人技术博客，分享热门文章，喜欢就Star吧
 
@@ -20,4 +20,5 @@
 #### Other
 1. [经典蓝牙实现一对一聊天](https://github.com/GitCode8/GitCode/issues/11)
 2. [手机控制BLE设备](https://github.com/GitCode8/GitCode/issues/12)
+3. [RxJava 3.0.0-RC0](https://github.com/GitCode8/GitCode/issues/14)
 ## Java
