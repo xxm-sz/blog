@@ -22,3 +22,6 @@
 2. [手机控制BLE设备](https://github.com/GitCode8/GitCode/issues/12)
 3. [RxJava 3.0.0-RC0](https://github.com/GitCode8/GitCode/issues/14)
 ## Java
+
+## 设计模式
+1.[在恋爱的世界里谈观察者模式](https://juejin.im/post/5d23e6e0e51d4510624f9846)
