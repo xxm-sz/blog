@@ -24,4 +24,4 @@
 ## Java
 
 ## 设计模式
-1.[在恋爱的世界里谈观察者模式](https://juejin.im/post/5d23e6e0e51d4510624f9846)
+1.[在恋爱的世界里谈观察者模式](https://github.com/GitCode8/GitCode/issues/15)
