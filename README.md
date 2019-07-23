@@ -1,6 +1,6 @@
-# GitCode        Star  Star
+# GitCode8 Blog        Star  Star
 
-个人技术博客，分享热门文章，喜欢就Star吧
+个人技术博客，分享最新和原创文章~ 喜欢就Star吧
 
 排版较好的博客：[掘金博客](https://juejin.im/user/5995c9f2f265da248c3934a5/posts)
 
@@ -9,7 +9,7 @@
 ## Android 
 #### Android Studio 系列
 1. [Android Studio 爬坑日记---持续更新](https://github.com/GitCode8/GitCode/issues/17)
-2. [Android studio lint & Custiom Issue](https://github.com/GitCode8/GitCode/issues/18)
+2. [Android Studio lint & Custiom Issue](https://github.com/GitCode8/GitCode/issues/18)
 #### Jetpack 系列
 1. [Data Binding](https://github.com/GitCode8/GitCode/issues/2)
 2. [Lifecycles](https://github.com/GitCode8/GitCode/issues/3)
