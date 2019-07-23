@@ -7,7 +7,9 @@
 可以通过Issues直接查看文章哦
 
 ## Android 
+#### Android Studio 系列
 1. [Android Studio 爬坑日记---持续更新](https://github.com/GitCode8/GitCode/issues/17)
+2. [Android studio lint & Custiom Issue](https://github.com/GitCode8/GitCode/issues/18)
 #### Jetpack 系列
 1. [Data Binding](https://github.com/GitCode8/GitCode/issues/2)
 2. [Lifecycles](https://github.com/GitCode8/GitCode/issues/3)
