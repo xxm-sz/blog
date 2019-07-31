@@ -32,7 +32,7 @@
 1. [经典蓝牙实现一对一聊天](https://github.com/GitCode8/GitCode/issues/11)
 2. [手机控制BLE设备](https://github.com/GitCode8/GitCode/issues/12)
 3. [RxJava 3.0.0-RC0](https://github.com/GitCode8/GitCode/issues/14)
-4. [Android Setting 大杂烩](https://github.com/GitCode8/GitCode/blob/master/article/Android_Settings.md)
+4. [Android Setting 大杂烩](https://github.com/GitCode8/GitCode/blob/master/article/Android%20Settings%E5%A4%A7%E6%9D%82%E7%83%A9.md)
 
 ## 设计模式
 1.[在恋爱的世界里谈观察者模式](https://github.com/GitCode8/GitCode/issues/15)
