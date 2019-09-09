@@ -6,6 +6,10 @@
 
 
 ## Android 
+#### 进阶系列
+1. [Android 9.0 Activity的启动流程](https://github.com/GitCode8/blob/blob/master/article/进阶系列/Android%209.0%20Activity的启动流程.md)
+2. [按键事件&焦点事件攻略](https://github.com/GitCode8/blob/blob/master/article/%E8%BF%9B%E9%98%B6%E7%B3%BB%E5%88%97/Android%20%E6%8C%89%E9%94%AE%E4%BA%8B%E4%BB%B6%E5%92%8C%E7%84%A6%E7%82%B9%E4%BA%8B%E4%BB%B6.md)
+
 #### Android Studio 系列
 1. [Android Studio 爬坑日记---持续更新](https://github.com/GitCode8/GitCode/issues/17)
 2. [Android Studio lint & Custiom Issue](https://github.com/GitCode8/GitCode/issues/18)
