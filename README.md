@@ -40,3 +40,5 @@
 
 ## 设计模式
 1.[在恋爱的世界里谈观察者模式](https://github.com/GitCode8/GitCode/issues/15)
+## 算法
+1. [Java排序算法](https://github.com/GitCode8/blob/blob/master/article/%E8%BF%9B%E9%98%B6%E7%B3%BB%E5%88%97/%E5%B8%B8%E7%94%A8%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.md)
