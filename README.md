@@ -1,6 +1,8 @@
-# GitCode8 Blog        Star  Star
+# 新小梦 Android技术博客分享
 
-个人技术博客，分享最新和原创文章~ 喜欢就Star吧
+分享Android技术领域文章
+
+适合初中级Android开发者学习，高级Android开发者温故知新~
 
 排版较好的博客：[掘金博客](https://juejin.im/user/5995c9f2f265da248c3934a5/posts)
 
