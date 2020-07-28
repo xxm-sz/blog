@@ -14,10 +14,10 @@
 3. [ConstraintLayout 2.0.o-beta8 学不懂也得学](https://github.com/Android-XXM/XXM-BLOG/blob/master/ConstraintLayout%202.0.md)
 
 #### Android 动画系列
-[仓库地址](https://github.com/Android-XXM/AndroidAnimation)
 1. [Android属性动画](https://juejin.im/post/5ef8399e5188252e415f40d8)
 2. [Android矢量图动画](https://juejin.im/post/5f0417e5f265da22fd637d32)
 3. [Android过渡动画](https://juejin.im/post/5f0d5d11e51d45349066598b)
+4. [Android MotionLayout动画](https://juejin.im/post/5f0e9eea6fb9a07e7e0444e3)
 
 #### Android Studio 系列
 1. [Android Studio 爬坑日记---持续更新](https://github.com/GitCode8/GitCode/issues/17)
