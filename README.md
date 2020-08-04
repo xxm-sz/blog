@@ -13,6 +13,9 @@
 2. [按键事件&焦点事件攻略](https://github.com/GitCode8/blob/blob/master/article/%E8%BF%9B%E9%98%B6%E7%B3%BB%E5%88%97/Android%20%E6%8C%89%E9%94%AE%E4%BA%8B%E4%BB%B6%E5%92%8C%E7%84%A6%E7%82%B9%E4%BA%8B%E4%BB%B6.md)
 3. [ConstraintLayout 2.0.o-beta8 学不懂也得学](https://github.com/Android-XXM/XXM-BLOG/blob/master/ConstraintLayout%202.0.md)
 
+#### 并发基础
+1. [Android面试10问：并发基础](https://github.com/Android-XXM/XXM-BLOG/blob/master/article/Android%E5%B9%B6%E5%8F%91%E5%9F%BA%E7%A1%80%EF%BC%9Avolatile%E4%B8%8Esynchronized.md)
+
 #### Android 动画系列
 1. [Android属性动画](https://juejin.im/post/5ef8399e5188252e415f40d8)
 2. [Android矢量图动画](https://juejin.im/post/5f0417e5f265da22fd637d32)
