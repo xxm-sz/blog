@@ -12,6 +12,7 @@
 1. [Android 9.0 Activity的启动流程](https://github.com/GitCode8/blob/blob/master/article/进阶系列/Android%209.0%20Activity的启动流程.md)
 2. [按键事件&焦点事件攻略](https://github.com/GitCode8/blob/blob/master/article/%E8%BF%9B%E9%98%B6%E7%B3%BB%E5%88%97/Android%20%E6%8C%89%E9%94%AE%E4%BA%8B%E4%BB%B6%E5%92%8C%E7%84%A6%E7%82%B9%E4%BA%8B%E4%BB%B6.md)
 3. [ConstraintLayout 2.0.o-beta8 学不懂也得学](https://github.com/Android-XXM/XXM-BLOG/blob/master/ConstraintLayout%202.0.md)
+4. [Android进阶：硬件加速](https://github.com/Android-XXM/XXM-BLOG/blob/master/article/Android%E8%BF%9B%E9%98%B6%EF%BC%9A%E7%A1%AC%E4%BB%B6%E5%8A%A0%E9%80%9F.md)
 
 #### 并发基础
 1. [Android面试10问：并发基础](https://github.com/Android-XXM/XXM-BLOG/blob/master/article/Android%E5%B9%B6%E5%8F%91%E5%9F%BA%E7%A1%80%EF%BC%9Avolatile%E4%B8%8Esynchronized.md)
