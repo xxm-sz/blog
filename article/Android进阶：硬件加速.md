@@ -1,5 +1,5 @@
 
-硬件加速指的是利用CPU和GPU各自的特性，将绘制工作一分为二，CPU负责复杂的逻辑运算，利用底层软件代码，将CPU不擅长的图形计算转换成GPU专用指令，由GPU完成。
+硬件加速指的是利用CPU和GPU各自的特性，将绘制工作一分为二，CPU负责复杂的逻辑运算，利用底层软件代码，将CPU不擅长的图形计算转换成GPU专用指令，由GPU完成,从而提高绘制速度。
 ## 开启硬件加速
 在分析Android的绘制流程中，定位到ViewRootImpl类的`draw`函数，会发现在这里会有绘制的两个分支，一个走的是硬件绘制` mAttachInfo.mThreadedRenderer.draw`函数，一个是软件绘制`drawSoftware`函数。而它们的判断走向条件是`mAttachInfo.mThreadedRenderer != null && mAttachInfo.mThreadedRenderer.isEnabled()`为true走硬件绘制，false软件绘制。定位到`mThreadedRenderer`初始化的地方`enableHardwareAcceleration`函数；
 
