@@ -7,7 +7,9 @@
 ![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ab66a973f2934f9fb628e50cd98c74f0~tplv-k3u1fbpfcp-watermark.image)
 
 2、请求开启硬件加速，即设置了`FLAG_HARDWARE_ACCELERATED`属性。请求了硬件加速，不保证一定开启了硬件加速，还需要根据后面的情况。
+
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5ed3ebb92dd24d309c7269df20003cbc~tplv-k3u1fbpfcp-watermark.image)
+
 如何设置该属性，以请求硬件加速呢？
 
 应用级别，在AndroidManifest.xml文件，application节点添加下面属性。
