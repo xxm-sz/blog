@@ -17,11 +17,11 @@ Sharing comprehend of Android by myselef ！Welcome to Start、Collect and Share
 
 4. [Android进阶：硬件加速](https://github.com/Android-XXM/XXM-BLOG/blob/master/article/Android%E8%BF%9B%E9%98%B6%EF%BC%9A%E7%A1%AC%E4%BB%B6%E5%8A%A0%E9%80%9F.md)
 
-5. [Android Intent的解析与匹配](https://github.com/xxm-sz/blog/blob/master/article/2024/broadcast.md)(Android Intent and IntentFilter)
+5. [Android Intent的解析与匹配](https://github.com/xxm-sz/blog/blob/master/article/2024/intenfilter.md)(Android Intent and IntentFilter)
 
    (2024/1/5)分析Android Intent的解析，与IntentFilter在Action、Category、Data的匹配规则。
 
-6. [Android 广播的分析](https://github.com/xxm-sz/blog/blob/master/article/broadcast.md)（Android Broadcast）
+6. [Android 广播的分析](https://github.com/xxm-sz/blog/blob/master/article/2024/broadcast.md)（Android Broadcast）
 
    (2024/1/11)分析Android广播的注册、解注册、处理和结束。是一篇学习广播值得一看的好文，开卷有益。
 
